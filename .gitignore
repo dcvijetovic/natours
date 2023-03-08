@@ -1,0 +1,8 @@
+node_modules
+.cache
+.vscode
+dev-data
+config.env
+.package-lock.json
+.DS_Store
+
